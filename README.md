@@ -60,7 +60,7 @@
 ## 🚀 快速开始
 
 ### 在线访问
-访问 GitHub Pages 地址即可使用：https://Wangjh228.github.io/littlefocus/
+访问 GitHub Pages 地址即可使用：https://wangjh228.github.io/littlefocus/
 
 ### 本地运行
 1. 下载 `index.html` 文件
